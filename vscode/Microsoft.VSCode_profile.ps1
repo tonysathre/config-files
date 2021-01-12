@@ -1,0 +1,1 @@
+. "C:\Users\Tony\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
